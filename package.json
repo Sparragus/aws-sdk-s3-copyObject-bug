@@ -1,0 +1,25 @@
+{
+  "name": "aws-sdk-s3-copyObject-bug",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.2.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sparragus/aws-sdk-s3-copyObject-bug.git"
+  },
+  "keywords": [],
+  "author": "Richard B. Kaufman-Lopez <richardbkaufman@gmail.com> (http://richardkaufman.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sparragus/aws-sdk-s3-copyObject-bug/issues"
+  },
+  "homepage": "https://github.com/Sparragus/aws-sdk-s3-copyObject-bug#readme"
+}
